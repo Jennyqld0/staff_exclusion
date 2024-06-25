@@ -13,8 +13,11 @@ Solution: Use the object detection model, specifically [Ultralytics YOLO](https:
 In this case, the objects to mark are people ( **sticking out
 their chests** ) and name tags. Use [roboflow](https://app.roboflow.com/123-djtgh/staff-exclusion/).
 
-See [datatset](https://github.com/Jennyqld0/staff_exclusion/tree/main/dataset_yolov8).
+see datasets with labels in [roboflow project](https://app.roboflow.com/123-djtgh/staff-exclusion/deploy)
 
+See [datatset folder](https://github.com/Jennyqld0/staff_exclusion/tree/main/dataset_yolov8).
+
+Download codes:
 ```
 !pip install roboflow
 
